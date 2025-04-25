@@ -1,9 +1,6 @@
-# This script contains all functions used in the simulation studies
-# presented in Section 2 and Sections S4 of the paper:
-# "Towards R-learner with Continuous Treatments"
-# by Yichi Zhang, Dehan Kong, and Shu Yang
-# Available at: https://arxiv.org/pdf/2208.00872
-# The setting of the simulation is introduced in Section S5
+#This script showcases the performance of the continuous-treatment R-learner for the simple simulation in Section 2 of the paper: "Towards R-learner with Continuous Treatments"
+#by Yichi Zhang, Dehan Kong, and Shu Yang
+#Available at: https://arxiv.org/pdf/2208.00872
 
 library(mvtnorm)
 library(parallel)
